@@ -1,1 +1,2 @@
 // このファイルに指示されたBNFを記述する
+link:codes/lox_8_4.bnf[role=include]
